@@ -1,0 +1,40 @@
+body{
+	background-image:url("webbg.jpg");
+	background-attachment:fixed;
+}
+
+h1{
+	font-family:Impact,Charcoal,sans-serif;
+	font-size:60px;
+	text-align:center;
+	color:purple;
+	text-shadow:5px 5px 5px black;
+	padding-bottom:50px;
+}
+
+ul#sidebar li{
+	font-family:Impact,Charcoal,sans-serif;
+	color:black;
+	letter-spacing:2px;
+	display:inline;
+	padding-left:50px;
+	padding-right:50px;
+	padding-bottom:25px;
+	padding-top:25px;
+	background-color:#fb21ff;
+	border:5px solid grey;
+}
+
+ul#sidebar{
+	list-style-type:none;
+	text-align:center;
+}
+
+a:link{
+	text-decoration:none;
+	color:black;
+}
+
+a:visited{
+	color:black;
+}
